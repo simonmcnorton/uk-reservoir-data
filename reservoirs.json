@@ -1,0 +1,22 @@
+[
+  {
+    "reservoir_name": "Reservoirs in London",
+    "capacity_percentage": 74.0,
+    "company": "Thames Water"
+  },
+  {
+    "reservoir_name": "Farmoor Reservoir in Oxfordshire",
+    "capacity_percentage": 92.0,
+    "company": "Thames Water"
+  },
+  {
+    "reservoir_name": "West London",
+    "capacity_percentage": 72.0,
+    "company": "Thames Water"
+  },
+  {
+    "reservoir_name": "Lee Valley",
+    "capacity_percentage": 82.0,
+    "company": "Thames Water"
+  }
+]

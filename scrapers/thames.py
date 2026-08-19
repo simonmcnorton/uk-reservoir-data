@@ -1,11 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
-import json
 import re
 
 def scrape_thames_water_reservoirs():
     """
     Scrape reservoir data from Thames Water website
+    Returns a dictionary mapping reservoir names to their capacity percentages
     """
     url = "https://www.thameswater.co.uk/about-us/performance/reservoir-levels-and-rainfall-figures"
     
@@ -18,8 +18,8 @@ def scrape_thames_water_reservoirs():
         
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Find the reservoir section
-        reservoir_data = []
+        # Dictionary to store reservoir name -> percentage mapping
+        reservoir_percentages = {}
         
         # Look for the water levels section
         water_levels_section = soup.find(string=re.compile("Water levels in our reservoirs"))
@@ -38,24 +38,15 @@ def scrape_thames_water_reservoirs():
                         if match:
                             name = match.group(1).strip()
                             percentage = float(match.group(2))
-                            reservoir_data.append({
-                                "reservoir_name": name,
-                                "capacity_percentage": percentage,
-                                "company": "Thames Water"
-                            })
+                            reservoir_percentages[name] = percentage
                         # Pattern: "Farmoor Reservoir in Oxfordshire was 92% full"
                         match2 = re.search(r'(.+?)\s+was\s+(\d+)%\s+full', text)
                         if match2:
                             name = match2.group(1).strip()
                             percentage = float(match2.group(2))
-                            reservoir_data.append({
-                                "reservoir_name": name,
-                                "capacity_percentage": percentage,
-                                "company": "Thames Water"
-                            })
+                            reservoir_percentages[name] = percentage
         
         # Also try to find specific breakdowns like "(72% full in West London and 82% full in Lee Valley)"
-        # Pattern: "(\d+)%\s+full\s+in\s+(.+?)(?:\s+and|$)"
         if parent:
             list_items = parent.find_next('ul')
             if list_items:
@@ -65,44 +56,19 @@ def scrape_thames_water_reservoirs():
                     for match in re.finditer(r'(\d+)%\s+full\s+in\s+(.+?)(?:\s+and|\)|,|$)', text):
                         percentage = float(match.group(1))
                         name = match.group(2).strip()
-                        # Only add if not already in the list
-                        if not any(r["reservoir_name"] == name for r in reservoir_data):
-                            reservoir_data.append({
-                                "reservoir_name": name,
-                                "capacity_percentage": percentage,
-                                "company": "Thames Water"
-                            })
+                        # Only add if not already in the dictionary
+                        if name not in reservoir_percentages:
+                            reservoir_percentages[name] = percentage
         
-        print(f"Extracted {len(reservoir_data)} reservoir entries:")
-        for reservoir in reservoir_data:
-            print(f"  - {reservoir['reservoir_name']}: {reservoir['capacity_percentage']}%")
+        print(f"Extracted {len(reservoir_percentages)} reservoir entries:")
+        for name, percentage in reservoir_percentages.items():
+            print(f"  - {name}: {percentage}%")
         
-        return reservoir_data
+        return reservoir_percentages
         
     except requests.RequestException as e:
         print(f"Error fetching the page: {e}")
-        return []
+        return {}
     except Exception as e:
         print(f"Error parsing the page: {e}")
-        return []
-
-def save_to_json(data, filename="reservoirs.json"):
-    """
-    Save reservoir data to JSON file
-    """
-    try:
-        with open(filename, 'w') as f:
-            json.dump(data, f, indent=2)
-        print(f"Data saved to {filename}")
-    except Exception as e:
-        print(f"Error saving to JSON: {e}")
-
-if __name__ == "__main__":
-    # Scrape the data
-    reservoir_data = scrape_thames_water_reservoirs()
-    
-    # Save to JSON
-    if reservoir_data:
-        save_to_json(reservoir_data)
-    else:
-        print("No reservoir data extracted")
+        return {}

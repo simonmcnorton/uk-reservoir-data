@@ -6,7 +6,7 @@
     "capacity_percentage": 74.0,
     "latitude": 51.5,
     "longitude": -0.1,
-    "last_updated": "2026-08-19T19:28:17Z"
+    "last_updated": "2026-08-20T04:30:36Z"
   },
   {
     "reservoir_id": "THM_002",
@@ -15,7 +15,7 @@
     "capacity_percentage": 92.0,
     "latitude": 51.7,
     "longitude": -1.3,
-    "last_updated": "2026-08-19T19:28:17Z"
+    "last_updated": "2026-08-20T04:30:36Z"
   },
   {
     "reservoir_id": "THM_003",
@@ -24,7 +24,7 @@
     "capacity_percentage": 72.0,
     "latitude": 51.5,
     "longitude": -0.2,
-    "last_updated": "2026-08-19T19:28:17Z"
+    "last_updated": "2026-08-20T04:30:36Z"
   },
   {
     "reservoir_id": "THM_004",
@@ -33,6 +33,2463 @@
     "capacity_percentage": 82.0,
     "latitude": 51.7,
     "longitude": 0.0,
-    "last_updated": "2026-08-19T19:28:17Z"
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_005",
+    "name": "Abberton",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028701,
+    "longitude": -8.002197,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_006",
+    "name": "Agden",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044391,
+    "longitude": -8.017654,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_007",
+    "name": "Allerton Newton Fairburn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.047537,
+    "longitude": -8.015956,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_008",
+    "name": "Allt na Lairige",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.073705,
+    "longitude": -8.0357,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_009",
+    "name": "Alton Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.03027,
+    "longitude": -8.000571,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_010",
+    "name": "Alwen Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.040847,
+    "longitude": -8.029391,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_011",
+    "name": "Anglezarke",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046528,
+    "longitude": -8.023442,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_012",
+    "name": "Angram",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.051938,
+    "longitude": -8.019641,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_013",
+    "name": "Ardingly",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.020631,
+    "longitude": -8.008003,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_014",
+    "name": "Ardleigh",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.029594,
+    "longitude": -8.001721,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_015",
+    "name": "Arlington",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.018703,
+    "longitude": -8.006219,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_016",
+    "name": "Audenshaw No.1",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044787,
+    "longitude": -8.020746,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_017",
+    "name": "Audenshaw No.2",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044742,
+    "longitude": -8.020773,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_018",
+    "name": "Audenshaw No.3",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044787,
+    "longitude": -8.0208,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_019",
+    "name": "Baddinsgill",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.068149,
+    "longitude": -8.027831,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_020",
+    "name": "Baitings",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046789,
+    "longitude": -8.01991,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_021",
+    "name": "Bakethin",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.062334,
+    "longitude": -8.023208,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_022",
+    "name": "Balderhead",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055761,
+    "longitude": -8.020647,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_023",
+    "name": "Banbury",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026275,
+    "longitude": -8.00776,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_024",
+    "name": "Banbury FSA",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026275,
+    "longitude": -8.00776,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_025",
+    "name": "Barden Lower",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.050197,
+    "longitude": -8.019685,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_026",
+    "name": "Barden Upper",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.050297,
+    "longitude": -8.019892,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_027",
+    "name": "Barnacre North",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.049395,
+    "longitude": -8.02426,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_028",
+    "name": "Barnacre South",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.049377,
+    "longitude": -8.02426,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_029",
+    "name": "Barrow 1",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024093,
+    "longitude": -8.02417,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_030",
+    "name": "Barrow 2",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.02412,
+    "longitude": -8.024143,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_031",
+    "name": "Barrow 3",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024165,
+    "longitude": -8.024107,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_032",
+    "name": "Bartley",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.034373,
+    "longitude": -8.019982,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_033",
+    "name": "Beacons Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028726,
+    "longitude": -8.029104,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_034",
+    "name": "Beckingham FSA",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044228,
+    "longitude": -8.012856,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_035",
+    "name": "Belmont",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046564,
+    "longitude": -8.022939,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_036",
+    "name": "Belvide",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.036988,
+    "longitude": -8.021213,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_037",
+    "name": "Ben Crom",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.052479,
+    "longitude": -8.043352,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_038",
+    "name": "Bewl Bridge",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.020979,
+    "longitude": -8.004923,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_039",
+    "name": "Blackbrook",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.037646,
+    "longitude": -8.015884,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_040",
+    "name": "Blackmoorfoot",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046257,
+    "longitude": -8.01911,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_041",
+    "name": "Blackton",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055779,
+    "longitude": -8.020503,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_042",
+    "name": "Blackwater",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.077572,
+    "longitude": -8.035749,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_043",
+    "name": "Blagdon (Bristol)",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.023444,
+    "longitude": -8.024404,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_044",
+    "name": "Blithfield",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.038187,
+    "longitude": -8.019461,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_045",
+    "name": "Bosley",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.04201,
+    "longitude": -8.020701,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_046",
+    "name": "Bottoms (Longdendale)",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044814,
+    "longitude": -8.019793,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_047",
+    "name": "Bough Beech",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.022335,
+    "longitude": -8.006574,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_048",
+    "name": "Branston Island",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.04247,
+    "longitude": -8.010115,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_049",
+    "name": "Brent",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.025888,
+    "longitude": -8.009072,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_050",
+    "name": "Broomhead",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044715,
+    "longitude": -8.017583,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_051",
+    "name": "Brotherton Little Marsh to Birkin Holme Washland",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.047366,
+    "longitude": -8.015318,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_052",
+    "name": "Burnhope",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.057618,
+    "longitude": -8.021375,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_053",
+    "name": "Burrator",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.015199,
+    "longitude": -8.032969,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_054",
+    "name": "Butterley",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046032,
+    "longitude": -8.019578,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_055",
+    "name": "Caban Coch",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.03275,
+    "longitude": -8.029742,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_056",
+    "name": "Caldecott Lake",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.030279,
+    "longitude": -8.011921,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_057",
+    "name": "Cantref Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028479,
+    "longitude": -8.029042,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_058",
+    "name": "Carsington",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.040703,
+    "longitude": -8.017771,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_059",
+    "name": "Catcleugh",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.063398,
+    "longitude": -8.022274,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_060",
+    "name": "Catterall Flood Storage",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048809,
+    "longitude": -8.024781,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_061",
+    "name": "Cavendish Dock",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.051243,
+    "longitude": -8.027082,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_062",
+    "name": "Cawood Ings Wistow Lordship",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048331,
+    "longitude": -8.014563,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_063",
+    "name": "Chasewater",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.036753,
+    "longitude": -8.019676,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_064",
+    "name": "Cheddar",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.022876,
+    "longitude": -8.025024,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_065",
+    "name": "Chelker",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.049738,
+    "longitude": -8.019493,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_066",
+    "name": "Chelmarsh ",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.034941,
+    "longitude": -8.02239,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_067",
+    "name": "Chew Magna",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.023733,
+    "longitude": -8.0239,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_068",
+    "name": "Chew Valley Lake",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.023444,
+    "longitude": -8.023864,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_069",
+    "name": "Chrathaich",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.083019,
+    "longitude": -8.034702,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_070",
+    "name": "Church Wilne",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.038998,
+    "longitude": -8.015839,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_071",
+    "name": "Claerwen",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.032921,
+    "longitude": -8.03029,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_072",
+    "name": "Clatworthy",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.020865,
+    "longitude": -8.0286,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_073",
+    "name": "Clifton Ings Washlands",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.049873,
+    "longitude": -8.014725,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_074",
+    "name": "Colliford Lake",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.015419,
+    "longitude": -8.036365,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_075",
+    "name": "Colt Crag",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.061144,
+    "longitude": -8.020539,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_076",
+    "name": "Covenham",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044726,
+    "longitude": -8.007901,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_077",
+    "name": "Cow Green",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.056708,
+    "longitude": -8.02169,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_078",
+    "name": "Craig Goch",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033345,
+    "longitude": -8.029921,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_079",
+    "name": "Cray",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.029035,
+    "longitude": -8.03002,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_080",
+    "name": "Cropston",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.03706,
+    "longitude": -8.015084,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_081",
+    "name": "Crowlands Cowbit Washes",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.037556,
+    "longitude": -8.008677,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_082",
+    "name": "Crummock Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055977,
+    "longitude": -8.02763,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_083",
+    "name": "Curry Moor Flood Storage Area",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.020469,
+    "longitude": -8.026057,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_084",
+    "name": "Daer",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.063823,
+    "longitude": -8.029205,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_085",
+    "name": "Dale Dyke",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044336,
+    "longitude": -8.017816,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_086",
+    "name": "Damflask",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044246,
+    "longitude": -8.017448,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_087",
+    "name": "Darwell",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.019946,
+    "longitude": -8.004588,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_088",
+    "name": "Delph",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046473,
+    "longitude": -8.022669,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_089",
+    "name": "Derwent",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044165,
+    "longitude": -8.018445,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_090",
+    "name": "Derwent Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.058737,
+    "longitude": -8.019775,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_091",
+    "name": "Digley",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045716,
+    "longitude": -8.019011,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_092",
+    "name": "Doe Park",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048169,
+    "longitude": -8.019299,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_093",
+    "name": "Donolly Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.069313,
+    "longitude": -8.023792,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_094",
+    "name": "Dovestone",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045409,
+    "longitude": -8.019856,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_095",
+    "name": "Draycote Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033363,
+    "longitude": -8.015866,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_096",
+    "name": "East Ings and Wood Holmes Washland Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.047276,
+    "longitude": -8.0153,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_097",
+    "name": "East Warwick",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026014,
+    "longitude": -8.007886,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_098",
+    "name": "Eccup",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048854,
+    "longitude": -8.017232,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_099",
+    "name": "Eglwys Nunydd",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.025743,
+    "longitude": -8.030856,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_100",
+    "name": "Ennerdale Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055481,
+    "longitude": -8.028187,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_101",
+    "name": "Entwistle",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046663,
+    "longitude": -8.022516,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_102",
+    "name": "Errwood",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.042849,
+    "longitude": -8.019874,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_103",
+    "name": "Eyebrook",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.03559,
+    "longitude": -8.012379,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_104",
+    "name": "Farmoor No. 1",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.027664,
+    "longitude": -8.016001,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_105",
+    "name": "Farmoor No. 2",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.027592,
+    "longitude": -8.016001,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_106",
+    "name": "Fernilee",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.043074,
+    "longitude": -8.019883,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_107",
+    "name": "Fernworthy",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.016618,
+    "longitude": -8.031943,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_108",
+    "name": "Fewston",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.049963,
+    "longitude": -8.018319,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_109",
+    "name": "Ffynnon Llugwy",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041694,
+    "longitude": -8.031755,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_110",
+    "name": "Fiddler's Ferry P.S. Ash Lagoon D",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.043777,
+    "longitude": -8.024026,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_111",
+    "name": "Fontburn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.062533,
+    "longitude": -8.019596,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_112",
+    "name": "Foremark",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.038268,
+    "longitude": -8.017043,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_113",
+    "name": "Fruid",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.064852,
+    "longitude": -8.028116,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_114",
+    "name": "Garreg Ddu",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.032813,
+    "longitude": -8.029787,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_115",
+    "name": "Gladhouse",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.067952,
+    "longitude": -8.026311,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_116",
+    "name": "Glen Finglas",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.072971,
+    "longitude": -8.033264,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_117",
+    "name": "Glencorse",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.06888,
+    "longitude": -8.027041,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_118",
+    "name": "Gorple Upper",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.047916,
+    "longitude": -8.020683,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_119",
+    "name": "Gouthwaite",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.051307,
+    "longitude": -8.018832,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_120",
+    "name": "Grafham Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033092,
+    "longitude": -8.009486,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_121",
+    "name": "Grassholme",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.056122,
+    "longitude": -8.020557,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_122",
+    "name": "Greenbooth",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046455,
+    "longitude": -8.021321,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_123",
+    "name": "Grimwith",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.050874,
+    "longitude": -8.019461,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_124",
+    "name": "Hallington East",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.060982,
+    "longitude": -8.020243,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_125",
+    "name": "Hallington West",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.060955,
+    "longitude": -8.020315,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_126",
+    "name": "Hampton - Sunnyside",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024256,
+    "longitude": -8.009872,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_127",
+    "name": "Hanningfield",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026907,
+    "longitude": -8.004426,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_128",
+    "name": "Haweswater",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055499,
+    "longitude": -8.024493,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_129",
+    "name": "Heaton Park",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045509,
+    "longitude": -8.021573,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_130",
+    "name": "Hewenden",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048295,
+    "longitude": -8.019335,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_131",
+    "name": "High Maynard",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026113,
+    "longitude": -8.007823,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_132",
+    "name": "Hilfield Park",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.02669,
+    "longitude": -8.009602,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_133",
+    "name": "Hollingworth Lake",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046464,
+    "longitude": -8.020584,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_134",
+    "name": "Hollowell",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033579,
+    "longitude": -8.013799,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_135",
+    "name": "Hopes",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.068718,
+    "longitude": -8.024071,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_136",
+    "name": "Howden",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044409,
+    "longitude": -8.018472,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_137",
+    "name": "Hury",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055869,
+    "longitude": -8.020315,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_138",
+    "name": "Island Barn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024075,
+    "longitude": -8.009764,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_139",
+    "name": "Jumbles",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046338,
+    "longitude": -8.022381,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_140",
+    "name": "Kellington Ings Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.047294,
+    "longitude": -8.014689,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_141",
+    "name": "Kielder",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.061992,
+    "longitude": -8.022624,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_142",
+    "name": "Killington",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.05329,
+    "longitude": -8.023685,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_143",
+    "name": "Kinder",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.04402,
+    "longitude": -8.019474,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_144",
+    "name": "King George V",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026735,
+    "longitude": -8.007652,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_145",
+    "name": "King George VI",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024634,
+    "longitude": -8.010645,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_146",
+    "name": "Ladybower",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.043777,
+    "longitude": -8.018203,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_147",
+    "name": "Lamaload",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.042858,
+    "longitude": -8.020261,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_148",
+    "name": "Langsett",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045103,
+    "longitude": -8.018077,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_149",
+    "name": "Leeming",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048187,
+    "longitude": -8.019659,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_150",
+    "name": "Leigh Barrier (Medway) FSR",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.022209,
+    "longitude": -8.005936,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_151",
+    "name": "Leighton",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.05219,
+    "longitude": -8.018544,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_152",
+    "name": "Lindley Wood",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.04953,
+    "longitude": -8.018068,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_153",
+    "name": "Linton Ings",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.050531,
+    "longitude": -8.01565,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_154",
+    "name": "Little Swinburne",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.061063,
+    "longitude": -8.020494,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_155",
+    "name": "Llandegfedd",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026916,
+    "longitude": -8.026057,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_156",
+    "name": "Llwyn-On",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028079,
+    "longitude": -8.028888,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_157",
+    "name": "Llyn Alaw",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.043768,
+    "longitude": -8.034612,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_158",
+    "name": "Llyn Aled",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041289,
+    "longitude": -8.029742,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_159",
+    "name": "Llyn Arenig Fawr",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.039485,
+    "longitude": -8.030335,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_160",
+    "name": "Llyn Brenig",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.040964,
+    "longitude": -8.029193,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_161",
+    "name": "Llyn Brianne",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.031424,
+    "longitude": -8.030865,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_162",
+    "name": "Llyn Celyn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.039713,
+    "longitude": -8.030252,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_163",
+    "name": "Llyn Clywedog",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.035031,
+    "longitude": -8.029903,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_164",
+    "name": "Llyn Cowlyd",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041785,
+    "longitude": -8.031341,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_165",
+    "name": "Llyn Cwellyn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041081,
+    "longitude": -8.032995,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_166",
+    "name": "Llyn Cwmystradllyn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.040062,
+    "longitude": -8.032923,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_167",
+    "name": "Llyn Peris",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041469,
+    "longitude": -8.032698,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_168",
+    "name": "Llyn Stwlan",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.040071,
+    "longitude": -8.031988,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_169",
+    "name": "Llyn Tegid (Bala Lake)",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.039224,
+    "longitude": -8.029625,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_170",
+    "name": "Llyn Trawsfynydd",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.039512,
+    "longitude": -8.031737,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_171",
+    "name": "Loch Achonachie",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.086076,
+    "longitude": -8.033965,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_172",
+    "name": "Loch an Diamh",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.076315,
+    "longitude": -8.033402,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_173",
+    "name": "Loch Arklet",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.072958,
+    "longitude": -8.034578,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_174",
+    "name": "Loch Bradan",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.062875,
+    "longitude": -8.034194,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_175",
+    "name": "Loch Drunkie",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.072532,
+    "longitude": -8.033098,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_176",
+    "name": "Loch Earn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.074318,
+    "longitude": -8.031692,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_177",
+    "name": "Loch Eigheach Gaur",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.077266,
+    "longitude": -8.033831,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_178",
+    "name": "Loch Ericht",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.077789,
+    "longitude": -8.033408,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_179",
+    "name": "Loch Garry",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.081342,
+    "longitude": -8.035493,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_180",
+    "name": "Loch Gleann A'Bhearraidh",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.074562,
+    "longitude": -8.03937,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_181",
+    "name": "Loch Katrine",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.072995,
+    "longitude": -8.033989,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_182",
+    "name": "Loch Loyne",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.081865,
+    "longitude": -8.036167,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_183",
+    "name": "Loch Luichart",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.086698,
+    "longitude": -8.034693,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_184",
+    "name": "Loch Lyon",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.075896,
+    "longitude": -8.033911,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_185",
+    "name": "Loch Nant",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.074381,
+    "longitude": -8.037947,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_186",
+    "name": "Loch Quoich",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.08136,
+    "longitude": -8.037335,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_187",
+    "name": "Loch Spey",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.080585,
+    "longitude": -8.032752,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_188",
+    "name": "Loch Thom",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.069628,
+    "longitude": -8.035642,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_189",
+    "name": "Loch Vaich",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.087906,
+    "longitude": -8.034864,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_190",
+    "name": "Loch Venachar",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.072636,
+    "longitude": -8.032812,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_191",
+    "name": "Lockwood",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026167,
+    "longitude": -8.007841,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_192",
+    "name": "Loganlea",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.068745,
+    "longitude": -8.02724,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_193",
+    "name": "Low Maynard",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026113,
+    "longitude": -8.007823,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_194",
+    "name": "Marchlyn Mawr",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041676,
+    "longitude": -8.032429,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_195",
+    "name": "Megget",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.06512,
+    "longitude": -8.027256,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_196",
+    "name": "Meldon",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.017277,
+    "longitude": -8.032914,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_197",
+    "name": "Mickletown Washland",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.047528,
+    "longitude": -8.016271,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_198",
+    "name": "Midhope",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045031,
+    "longitude": -8.017996,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_199",
+    "name": "Misson East FSA",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044625,
+    "longitude": -8.013628,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_200",
+    "name": "Misson West FSA",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044544,
+    "longitude": -8.013844,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_201",
+    "name": "More Hall",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044706,
+    "longitude": -8.017421,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_202",
+    "name": "Mullardoch",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.083975,
+    "longitude": -8.035978,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_203",
+    "name": "Nant-y-Moch",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.034824,
+    "longitude": -8.031197,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_204",
+    "name": "Northampton Washlands",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.032479,
+    "longitude": -8.012856,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_205",
+    "name": "Ogston",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041469,
+    "longitude": -8.016603,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_206",
+    "name": "Oldbury Power Station",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.0266,
+    "longitude": -8.023595,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_207",
+    "name": "Ouse Washes",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.035076,
+    "longitude": -8.00652,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_208",
+    "name": "Penygarreg",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033128,
+    "longitude": -8.029858,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_209",
+    "name": "Pitsford",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033264,
+    "longitude": -8.013215,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_210",
+    "name": "Pontsticill (Taf Fechan)",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028115,
+    "longitude": -8.028439,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_211",
+    "name": "Queen Elizabeth II",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024084,
+    "longitude": -8.009953,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_212",
+    "name": "Queen Mary",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024319,
+    "longitude": -8.010357,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_213",
+    "name": "Queen Mother",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024959,
+    "longitude": -8.010932,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_214",
+    "name": "Ravensthorpe",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.033399,
+    "longitude": -8.01388,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_215",
+    "name": "Rhodeswood",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044923,
+    "longitude": -8.019605,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_216",
+    "name": "River Shin",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.09063,
+    "longitude": -8.032743,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_217",
+    "name": "River Till Controlled Washland",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.043056,
+    "longitude": -8.013682,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_218",
+    "name": "River Witham Flood Washlands",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041821,
+    "longitude": -8.011445,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_219",
+    "name": "Rivington Lower",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046203,
+    "longitude": -8.023325,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_220",
+    "name": "Roadford",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.017132,
+    "longitude": -8.034199,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_221",
+    "name": "Roundhill",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.052046,
+    "longitude": -8.018652,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_222",
+    "name": "Rudyard",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041442,
+    "longitude": -8.020494,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_223",
+    "name": "Rutland Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.036789,
+    "longitude": -8.011517,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_224",
+    "name": "Scaling",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055256,
+    "longitude": -8.013269,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_225",
+    "name": "Scammonden",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046591,
+    "longitude": -8.019524,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_226",
+    "name": "Scar House",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.052019,
+    "longitude": -8.019479,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_227",
+    "name": "Seathwaite Tarn",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.053976,
+    "longitude": -8.02674,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_228",
+    "name": "Selset",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.056004,
+    "longitude": -8.020737,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_229",
+    "name": "Shustoke Lower",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.035274,
+    "longitude": -8.017951,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_230",
+    "name": "Siblyback",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.015356,
+    "longitude": -8.035889,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_231",
+    "name": "Silent Valley",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.052205,
+    "longitude": -8.043486,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_232",
+    "name": "Staines North",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.02467,
+    "longitude": -8.010564,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_233",
+    "name": "Staines South",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024571,
+    "longitude": -8.010564,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_234",
+    "name": "Staunton Harold",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.038184,
+    "longitude": -8.016614,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_235",
+    "name": "Stithians",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.012299,
+    "longitude": -8.040499,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_236",
+    "name": "Stocks",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.050008,
+    "longitude": -8.022516,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_237",
+    "name": "Strines",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044228,
+    "longitude": -8.017915,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_238",
+    "name": "Sutton Bingham",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.019062,
+    "longitude": -8.024008,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_239",
+    "name": "Swinsty",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.0499,
+    "longitude": -8.018239,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_240",
+    "name": "Swithland",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.037402,
+    "longitude": -8.014994,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_241",
+    "name": "Tadcaster, Hackenby, North Ings and Cock Beck",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.048872,
+    "longitude": -8.015552,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_242",
+    "name": "Talla",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.06506,
+    "longitude": -8.027934,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_243",
+    "name": "Talybont",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028899,
+    "longitude": -8.028034,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_244",
+    "name": "Tanygrisiau",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.040098,
+    "longitude": -8.031836,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_245",
+    "name": "Thirlmere",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055815,
+    "longitude": -8.026201,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_246",
+    "name": "Thruscross",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.050297,
+    "longitude": -8.018634,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_247",
+    "name": "Tittesworth",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.041361,
+    "longitude": -8.020063,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_248",
+    "name": "Torside",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044932,
+    "longitude": -8.019497,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_249",
+    "name": "Tunstall",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.057781,
+    "longitude": -8.019416,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_250",
+    "name": "Underbank",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045013,
+    "longitude": -8.017726,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_251",
+    "name": "Usk",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.029625,
+    "longitude": -8.030589,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_252",
+    "name": "Vale House",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.044852,
+    "longitude": -8.019707,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_253",
+    "name": "Vyrnwy ",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.037808,
+    "longitude": -8.028825,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_254",
+    "name": "Walthamstow No.4",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026068,
+    "longitude": -8.007832,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_255",
+    "name": "Walthamstow No.5",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026023,
+    "longitude": -8.007823,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_256",
+    "name": "Walton - Bessborough",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024165,
+    "longitude": -8.009917,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_257",
+    "name": "Walton - Knight",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024165,
+    "longitude": -8.009962,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_258",
+    "name": "Waskerley",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.058096,
+    "longitude": -8.019775,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_259",
+    "name": "Watergrove",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046681,
+    "longitude": -8.020809,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_260",
+    "name": "Wayoh",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046564,
+    "longitude": -8.022364,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_261",
+    "name": "Weirwood",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.021217,
+    "longitude": -8.007365,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_262",
+    "name": "Wentwood",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026411,
+    "longitude": -8.025122,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_263",
+    "name": "West Moor Reservoir",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.020973,
+    "longitude": -8.025248,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_264",
+    "name": "West Warwick",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.025996,
+    "longitude": -8.007904,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_265",
+    "name": "West Water",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.067842,
+    "longitude": -8.027933,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_266",
+    "name": "Wet Sleddale",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.055148,
+    "longitude": -8.024017,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_267",
+    "name": "White Holme",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046879,
+    "longitude": -8.020261,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_268",
+    "name": "Whiteadder",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.068845,
+    "longitude": -8.023109,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_269",
+    "name": "Widdop",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.04806,
+    "longitude": -8.020629,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_270",
+    "name": "Willen Lake",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.030739,
+    "longitude": -8.012083,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_271",
+    "name": "William Girling",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.026519,
+    "longitude": -8.007715,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_272",
+    "name": "Wimbleball",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.020676,
+    "longitude": -8.029283,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_273",
+    "name": "Winscar",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045319,
+    "longitude": -8.018625,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_274",
+    "name": "Woodhead",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.045031,
+    "longitude": -8.019263,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_275",
+    "name": "Wraysbury",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.024752,
+    "longitude": -8.010789,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_276",
+    "name": "Yarrow",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.046482,
+    "longitude": -8.023379,
+    "last_updated": "2026-08-20T04:30:36Z"
+  },
+  {
+    "reservoir_id": "RES_277",
+    "name": "Ystradfellte",
+    "company": "",
+    "capacity_percentage": null,
+    "latitude": 50.028629,
+    "longitude": -8.029472,
+    "last_updated": "2026-08-20T04:30:36Z"
   }
 ]

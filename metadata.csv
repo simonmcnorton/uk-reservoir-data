@@ -1,8 +1,4 @@
 reservoir_id,name,company,latitude,longitude,total_capacity
-THM_001,Reservoirs in London,Thames Water,51.5,-0.1,
-THM_002,Farmoor Reservoir in Oxfordshire,Thames Water,51.7,-1.3,
-THM_003,West London,Thames Water,51.5,-0.2,
-THM_004,Lee Valley,Thames Water,51.7,0.0,
 RES_005,Abberton,,50.028701,-8.002197,39000.0
 RES_006,Agden,,50.044391,-8.017654,2859.0
 RES_007,Allerton Newton Fairburn,,50.047537,-8.015956,3347.5

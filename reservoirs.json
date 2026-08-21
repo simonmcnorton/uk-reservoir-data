@@ -1,48 +1,13 @@
 [
   {
-    "reservoir_id": "THM_001",
-    "name": "Reservoirs in London",
-    "company": "Thames Water",
-    "capacity_percentage": 74.0,
-    "latitude": 51.5,
-    "longitude": -0.1,
-    "last_updated": "2026-08-20T04:30:36Z"
-  },
-  {
-    "reservoir_id": "THM_002",
-    "name": "Farmoor Reservoir in Oxfordshire",
-    "company": "Thames Water",
-    "capacity_percentage": 92.0,
-    "latitude": 51.7,
-    "longitude": -1.3,
-    "last_updated": "2026-08-20T04:30:36Z"
-  },
-  {
-    "reservoir_id": "THM_003",
-    "name": "West London",
-    "company": "Thames Water",
-    "capacity_percentage": 72.0,
-    "latitude": 51.5,
-    "longitude": -0.2,
-    "last_updated": "2026-08-20T04:30:36Z"
-  },
-  {
-    "reservoir_id": "THM_004",
-    "name": "Lee Valley",
-    "company": "Thames Water",
-    "capacity_percentage": 82.0,
-    "latitude": 51.7,
-    "longitude": 0.0,
-    "last_updated": "2026-08-20T04:30:36Z"
-  },
-  {
     "reservoir_id": "RES_005",
     "name": "Abberton",
     "company": "",
     "capacity_percentage": null,
     "latitude": 50.028701,
     "longitude": -8.002197,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "39000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_006",
@@ -51,7 +16,8 @@
     "capacity_percentage": null,
     "latitude": 50.044391,
     "longitude": -8.017654,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2859.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_007",
@@ -60,7 +26,8 @@
     "capacity_percentage": null,
     "latitude": 50.047537,
     "longitude": -8.015956,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3347.5",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_008",
@@ -69,7 +36,8 @@
     "capacity_percentage": null,
     "latitude": 50.073705,
     "longitude": -8.0357,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1838.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_009",
@@ -78,7 +46,8 @@
     "capacity_percentage": null,
     "latitude": 50.03027,
     "longitude": -8.000571,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "9100.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_010",
@@ -87,7 +56,8 @@
     "capacity_percentage": null,
     "latitude": 50.040847,
     "longitude": -8.029391,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "14754.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_011",
@@ -96,7 +66,8 @@
     "capacity_percentage": null,
     "latitude": 50.046528,
     "longitude": -8.023442,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4044.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_012",
@@ -105,7 +76,8 @@
     "capacity_percentage": null,
     "latitude": 50.051938,
     "longitude": -8.019641,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4737.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_013",
@@ -114,7 +86,8 @@
     "capacity_percentage": null,
     "latitude": 50.020631,
     "longitude": -8.008003,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5206.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_014",
@@ -123,7 +96,8 @@
     "capacity_percentage": null,
     "latitude": 50.029594,
     "longitude": -8.001721,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2109.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_015",
@@ -132,7 +106,8 @@
     "capacity_percentage": null,
     "latitude": 50.018703,
     "longitude": -8.006219,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3545.8",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_016",
@@ -141,7 +116,8 @@
     "capacity_percentage": null,
     "latitude": 50.044787,
     "longitude": -8.020746,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2590.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_017",
@@ -150,7 +126,8 @@
     "capacity_percentage": null,
     "latitude": 50.044742,
     "longitude": -8.020773,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1745.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_018",
@@ -159,7 +136,8 @@
     "capacity_percentage": null,
     "latitude": 50.044787,
     "longitude": -8.0208,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2680.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_019",
@@ -168,7 +146,8 @@
     "capacity_percentage": null,
     "latitude": 50.068149,
     "longitude": -8.027831,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2250.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_020",
@@ -177,7 +156,8 @@
     "capacity_percentage": null,
     "latitude": 50.046789,
     "longitude": -8.01991,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3523.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_021",
@@ -186,7 +166,8 @@
     "capacity_percentage": null,
     "latitude": 50.062334,
     "longitude": -8.023208,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2960.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_022",
@@ -195,7 +176,8 @@
     "capacity_percentage": null,
     "latitude": 50.055761,
     "longitude": -8.020647,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "19618.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_023",
@@ -204,7 +186,8 @@
     "capacity_percentage": null,
     "latitude": 50.026275,
     "longitude": -8.00776,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2779.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_024",
@@ -213,7 +196,8 @@
     "capacity_percentage": null,
     "latitude": 50.026275,
     "longitude": -8.00776,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3040.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_025",
@@ -222,7 +206,8 @@
     "capacity_percentage": null,
     "latitude": 50.050197,
     "longitude": -8.019685,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2240.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_026",
@@ -231,7 +216,8 @@
     "capacity_percentage": null,
     "latitude": 50.050297,
     "longitude": -8.019892,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2112.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_027",
@@ -240,7 +226,8 @@
     "capacity_percentage": null,
     "latitude": 50.049395,
     "longitude": -8.02426,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "344.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_028",
@@ -249,7 +236,8 @@
     "capacity_percentage": null,
     "latitude": 50.049377,
     "longitude": -8.02426,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "248.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_029",
@@ -258,7 +246,8 @@
     "capacity_percentage": null,
     "latitude": 50.024093,
     "longitude": -8.02417,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "157.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_030",
@@ -267,7 +256,8 @@
     "capacity_percentage": null,
     "latitude": 50.02412,
     "longitude": -8.024143,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "245.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_031",
@@ -276,7 +266,8 @@
     "capacity_percentage": null,
     "latitude": 50.024165,
     "longitude": -8.024107,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2160.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_032",
@@ -285,7 +276,8 @@
     "capacity_percentage": null,
     "latitude": 50.034373,
     "longitude": -8.019982,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2400.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_033",
@@ -294,7 +286,8 @@
     "capacity_percentage": null,
     "latitude": 50.028726,
     "longitude": -8.029104,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "160.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_034",
@@ -303,7 +296,8 @@
     "capacity_percentage": null,
     "latitude": 50.044228,
     "longitude": -8.012856,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "7000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_035",
@@ -312,7 +306,8 @@
     "capacity_percentage": null,
     "latitude": 50.046564,
     "longitude": -8.022939,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1886.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_036",
@@ -321,7 +316,8 @@
     "capacity_percentage": null,
     "latitude": 50.036988,
     "longitude": -8.021213,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2196.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_037",
@@ -330,7 +326,8 @@
     "capacity_percentage": null,
     "latitude": 50.052479,
     "longitude": -8.043352,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1700.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_038",
@@ -339,7 +336,8 @@
     "capacity_percentage": null,
     "latitude": 50.020979,
     "longitude": -8.004923,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "31400.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_039",
@@ -348,7 +346,8 @@
     "capacity_percentage": null,
     "latitude": 50.037646,
     "longitude": -8.015884,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2300.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_040",
@@ -357,7 +356,8 @@
     "capacity_percentage": null,
     "latitude": 50.046257,
     "longitude": -8.01911,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3205.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_041",
@@ -366,7 +366,8 @@
     "capacity_percentage": null,
     "latitude": 50.055779,
     "longitude": -8.020503,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2105.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_042",
@@ -375,7 +376,8 @@
     "capacity_percentage": null,
     "latitude": 50.077572,
     "longitude": -8.035749,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "214977.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_043",
@@ -384,7 +386,8 @@
     "capacity_percentage": null,
     "latitude": 50.023444,
     "longitude": -8.024404,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "8260.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_044",
@@ -393,7 +396,8 @@
     "capacity_percentage": null,
     "latitude": 50.038187,
     "longitude": -8.019461,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "18200.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_045",
@@ -402,7 +406,8 @@
     "capacity_percentage": null,
     "latitude": 50.04201,
     "longitude": -8.020701,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1224.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_046",
@@ -411,7 +416,8 @@
     "capacity_percentage": null,
     "latitude": 50.044814,
     "longitude": -8.019793,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2300.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_047",
@@ -420,7 +426,8 @@
     "capacity_percentage": null,
     "latitude": 50.022335,
     "longitude": -8.006574,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10018.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_048",
@@ -429,7 +436,8 @@
     "capacity_percentage": null,
     "latitude": 50.04247,
     "longitude": -8.010115,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_049",
@@ -438,7 +446,8 @@
     "capacity_percentage": null,
     "latitude": 50.025888,
     "longitude": -8.009072,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1632.33",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_050",
@@ -447,7 +456,8 @@
     "capacity_percentage": null,
     "latitude": 50.044715,
     "longitude": -8.017583,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4937.282",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_051",
@@ -456,7 +466,8 @@
     "capacity_percentage": null,
     "latitude": 50.047366,
     "longitude": -8.015318,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "11320.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_052",
@@ -465,7 +476,8 @@
     "capacity_percentage": null,
     "latitude": 50.057618,
     "longitude": -8.021375,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6438.182",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_053",
@@ -474,7 +486,8 @@
     "capacity_percentage": null,
     "latitude": 50.015199,
     "longitude": -8.032969,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4464.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_054",
@@ -483,7 +496,8 @@
     "capacity_percentage": null,
     "latitude": 50.046032,
     "longitude": -8.019578,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1773.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_055",
@@ -492,7 +506,8 @@
     "capacity_percentage": null,
     "latitude": 50.03275,
     "longitude": -8.029742,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "36865.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_056",
@@ -501,7 +516,8 @@
     "capacity_percentage": null,
     "latitude": 50.030279,
     "longitude": -8.011921,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2014.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_057",
@@ -510,7 +526,8 @@
     "capacity_percentage": null,
     "latitude": 50.028479,
     "longitude": -8.029042,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "145.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_058",
@@ -519,7 +536,8 @@
     "capacity_percentage": null,
     "latitude": 50.040703,
     "longitude": -8.017771,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "36000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_059",
@@ -528,7 +546,8 @@
     "capacity_percentage": null,
     "latitude": 50.063398,
     "longitude": -8.022274,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10500.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_060",
@@ -537,7 +556,8 @@
     "capacity_percentage": null,
     "latitude": 50.048809,
     "longitude": -8.024781,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1700.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_061",
@@ -546,7 +566,8 @@
     "capacity_percentage": null,
     "latitude": 50.051243,
     "longitude": -8.027082,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2053.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_062",
@@ -555,7 +576,8 @@
     "capacity_percentage": null,
     "latitude": 50.048331,
     "longitude": -8.014563,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "13500.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_063",
@@ -564,7 +586,8 @@
     "capacity_percentage": null,
     "latitude": 50.036753,
     "longitude": -8.019676,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3691.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_064",
@@ -573,7 +596,8 @@
     "capacity_percentage": null,
     "latitude": 50.022876,
     "longitude": -8.025024,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6140.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_065",
@@ -582,7 +606,8 @@
     "capacity_percentage": null,
     "latitude": 50.049738,
     "longitude": -8.019493,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "95.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_066",
@@ -591,7 +616,8 @@
     "capacity_percentage": null,
     "latitude": 50.034941,
     "longitude": -8.02239,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3063.32",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_067",
@@ -600,7 +626,8 @@
     "capacity_percentage": null,
     "latitude": 50.023733,
     "longitude": -8.0239,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "43.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_068",
@@ -609,7 +636,8 @@
     "capacity_percentage": null,
     "latitude": 50.023444,
     "longitude": -8.023864,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "20457.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_069",
@@ -618,7 +646,8 @@
     "capacity_percentage": null,
     "latitude": 50.083019,
     "longitude": -8.034702,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5629.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_070",
@@ -627,7 +656,8 @@
     "capacity_percentage": null,
     "latitude": 50.038998,
     "longitude": -8.015839,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2790.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_071",
@@ -636,7 +666,8 @@
     "capacity_percentage": null,
     "latitude": 50.032921,
     "longitude": -8.03029,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "48686.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_072",
@@ -645,7 +676,8 @@
     "capacity_percentage": null,
     "latitude": 50.020865,
     "longitude": -8.0286,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5364.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_073",
@@ -654,7 +686,8 @@
     "capacity_percentage": null,
     "latitude": 50.049873,
     "longitude": -8.014725,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2300.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_074",
@@ -663,7 +696,8 @@
     "capacity_percentage": null,
     "latitude": 50.015419,
     "longitude": -8.036365,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "29100.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_075",
@@ -672,7 +706,8 @@
     "capacity_percentage": null,
     "latitude": 50.061144,
     "longitude": -8.020539,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4855.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_076",
@@ -681,7 +716,8 @@
     "capacity_percentage": null,
     "latitude": 50.044726,
     "longitude": -8.007901,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10900.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_077",
@@ -690,7 +726,8 @@
     "capacity_percentage": null,
     "latitude": 50.056708,
     "longitude": -8.02169,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "40914.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_078",
@@ -699,7 +736,8 @@
     "capacity_percentage": null,
     "latitude": 50.033345,
     "longitude": -8.029921,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "9583.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_079",
@@ -708,7 +746,8 @@
     "capacity_percentage": null,
     "latitude": 50.029035,
     "longitude": -8.03002,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4027.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_080",
@@ -717,7 +756,8 @@
     "capacity_percentage": null,
     "latitude": 50.03706,
     "longitude": -8.015084,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2528.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_081",
@@ -726,7 +766,8 @@
     "capacity_percentage": null,
     "latitude": 50.037556,
     "longitude": -8.008677,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "20000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_082",
@@ -735,7 +776,8 @@
     "capacity_percentage": null,
     "latitude": 50.055977,
     "longitude": -8.02763,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3400.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_083",
@@ -744,7 +786,8 @@
     "capacity_percentage": null,
     "latitude": 50.020469,
     "longitude": -8.026057,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "11283.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_084",
@@ -753,7 +796,8 @@
     "capacity_percentage": null,
     "latitude": 50.063823,
     "longitude": -8.029205,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "22494.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_085",
@@ -762,7 +806,8 @@
     "capacity_percentage": null,
     "latitude": 50.044336,
     "longitude": -8.017816,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2210.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_086",
@@ -771,7 +816,8 @@
     "capacity_percentage": null,
     "latitude": 50.044246,
     "longitude": -8.017448,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5264.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_087",
@@ -780,7 +826,8 @@
     "capacity_percentage": null,
     "latitude": 50.019946,
     "longitude": -8.004588,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4730.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_088",
@@ -789,7 +836,8 @@
     "capacity_percentage": null,
     "latitude": 50.046473,
     "longitude": -8.022669,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2326.7",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_089",
@@ -798,7 +846,8 @@
     "capacity_percentage": null,
     "latitude": 50.044165,
     "longitude": -8.018445,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "9470.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_090",
@@ -807,7 +856,8 @@
     "capacity_percentage": null,
     "latitude": 50.058737,
     "longitude": -8.019775,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "50060.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_091",
@@ -816,7 +866,8 @@
     "capacity_percentage": null,
     "latitude": 50.045716,
     "longitude": -8.019011,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3260.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_092",
@@ -825,7 +876,8 @@
     "capacity_percentage": null,
     "latitude": 50.048169,
     "longitude": -8.019299,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "422.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_093",
@@ -834,7 +886,8 @@
     "capacity_percentage": null,
     "latitude": 50.069313,
     "longitude": -8.023792,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "209.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_094",
@@ -843,7 +896,8 @@
     "capacity_percentage": null,
     "latitude": 50.045409,
     "longitude": -8.019856,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5048.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_095",
@@ -852,7 +906,8 @@
     "capacity_percentage": null,
     "latitude": 50.033363,
     "longitude": -8.015866,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "22730.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_096",
@@ -861,7 +916,8 @@
     "capacity_percentage": null,
     "latitude": 50.047276,
     "longitude": -8.0153,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "23700.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_097",
@@ -870,7 +926,8 @@
     "capacity_percentage": null,
     "latitude": 50.026014,
     "longitude": -8.007886,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "742.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_098",
@@ -879,7 +936,8 @@
     "capacity_percentage": null,
     "latitude": 50.048854,
     "longitude": -8.017232,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6410.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_099",
@@ -888,7 +946,8 @@
     "capacity_percentage": null,
     "latitude": 50.025743,
     "longitude": -8.030856,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3311.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_100",
@@ -897,7 +956,8 @@
     "capacity_percentage": null,
     "latitude": 50.055481,
     "longitude": -8.028187,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3400.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_101",
@@ -906,7 +966,8 @@
     "capacity_percentage": null,
     "latitude": 50.046663,
     "longitude": -8.022516,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3464.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_102",
@@ -915,7 +976,8 @@
     "capacity_percentage": null,
     "latitude": 50.042849,
     "longitude": -8.019874,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4216.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_103",
@@ -924,7 +986,8 @@
     "capacity_percentage": null,
     "latitude": 50.03559,
     "longitude": -8.012379,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "8096.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_104",
@@ -933,7 +996,8 @@
     "capacity_percentage": null,
     "latitude": 50.027664,
     "longitude": -8.016001,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2505.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_105",
@@ -942,7 +1006,8 @@
     "capacity_percentage": null,
     "latitude": 50.027592,
     "longitude": -8.016001,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5055.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_106",
@@ -951,7 +1016,8 @@
     "capacity_percentage": null,
     "latitude": 50.043074,
     "longitude": -8.019883,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4944.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_107",
@@ -960,7 +1026,8 @@
     "capacity_percentage": null,
     "latitude": 50.016618,
     "longitude": -8.031943,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1727.3",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_108",
@@ -969,7 +1036,8 @@
     "capacity_percentage": null,
     "latitude": 50.049963,
     "longitude": -8.018319,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3845.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_109",
@@ -978,7 +1046,8 @@
     "capacity_percentage": null,
     "latitude": 50.041694,
     "longitude": -8.031755,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1776.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_110",
@@ -987,7 +1056,8 @@
     "capacity_percentage": null,
     "latitude": 50.043777,
     "longitude": -8.024026,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2900.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_111",
@@ -996,7 +1066,8 @@
     "capacity_percentage": null,
     "latitude": 50.062533,
     "longitude": -8.019596,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3279.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_112",
@@ -1005,7 +1076,8 @@
     "capacity_percentage": null,
     "latitude": 50.038268,
     "longitude": -8.017043,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "13193.49",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_113",
@@ -1014,7 +1086,8 @@
     "capacity_percentage": null,
     "latitude": 50.064852,
     "longitude": -8.028116,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10438.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_114",
@@ -1023,7 +1096,8 @@
     "capacity_percentage": null,
     "latitude": 50.032813,
     "longitude": -8.029787,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_115",
@@ -1032,7 +1106,8 @@
     "capacity_percentage": null,
     "latitude": 50.067952,
     "longitude": -8.026311,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "8133.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_116",
@@ -1041,7 +1116,8 @@
     "capacity_percentage": null,
     "latitude": 50.072971,
     "longitude": -8.033264,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "9043.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_117",
@@ -1050,7 +1126,8 @@
     "capacity_percentage": null,
     "latitude": 50.06888,
     "longitude": -8.027041,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1673.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_118",
@@ -1059,7 +1136,8 @@
     "capacity_percentage": null,
     "latitude": 50.047916,
     "longitude": -8.020683,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1731.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_119",
@@ -1068,7 +1146,8 @@
     "capacity_percentage": null,
     "latitude": 50.051307,
     "longitude": -8.018832,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5810.789",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_120",
@@ -1077,7 +1156,8 @@
     "capacity_percentage": null,
     "latitude": 50.033092,
     "longitude": -8.009486,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "55490.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_121",
@@ -1086,7 +1166,8 @@
     "capacity_percentage": null,
     "latitude": 50.056122,
     "longitude": -8.020557,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6060.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_122",
@@ -1095,7 +1176,8 @@
     "capacity_percentage": null,
     "latitude": 50.046455,
     "longitude": -8.021321,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3405.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_123",
@@ -1104,7 +1186,8 @@
     "capacity_percentage": null,
     "latitude": 50.050874,
     "longitude": -8.019461,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "22200.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_124",
@@ -1113,7 +1196,8 @@
     "capacity_percentage": null,
     "latitude": 50.060982,
     "longitude": -8.020243,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3116.74",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_125",
@@ -1122,7 +1206,8 @@
     "capacity_percentage": null,
     "latitude": 50.060955,
     "longitude": -8.020315,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3380.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_126",
@@ -1131,7 +1216,8 @@
     "capacity_percentage": null,
     "latitude": 50.024256,
     "longitude": -8.009872,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "71.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_127",
@@ -1140,7 +1226,8 @@
     "capacity_percentage": null,
     "latitude": 50.026907,
     "longitude": -8.004426,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "27721.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_128",
@@ -1149,7 +1236,8 @@
     "capacity_percentage": null,
     "latitude": 50.055499,
     "longitude": -8.024493,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "84840.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_129",
@@ -1158,7 +1246,8 @@
     "capacity_percentage": null,
     "latitude": 50.045509,
     "longitude": -8.021573,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2800.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_130",
@@ -1167,7 +1256,8 @@
     "capacity_percentage": null,
     "latitude": 50.048295,
     "longitude": -8.019335,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "252.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_131",
@@ -1176,7 +1266,8 @@
     "capacity_percentage": null,
     "latitude": 50.026113,
     "longitude": -8.007823,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "659.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_132",
@@ -1185,7 +1276,8 @@
     "capacity_percentage": null,
     "latitude": 50.02669,
     "longitude": -8.009602,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2728.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_133",
@@ -1194,7 +1286,8 @@
     "capacity_percentage": null,
     "latitude": 50.046464,
     "longitude": -8.020584,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2468.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_134",
@@ -1203,7 +1296,8 @@
     "capacity_percentage": null,
     "latitude": 50.033579,
     "longitude": -8.013799,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2064.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_135",
@@ -1212,7 +1306,8 @@
     "capacity_percentage": null,
     "latitude": 50.068718,
     "longitude": -8.024071,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "600.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_136",
@@ -1221,7 +1316,8 @@
     "capacity_percentage": null,
     "latitude": 50.044409,
     "longitude": -8.018472,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "8990.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_137",
@@ -1230,7 +1326,8 @@
     "capacity_percentage": null,
     "latitude": 50.055869,
     "longitude": -8.020315,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3905.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_138",
@@ -1239,7 +1336,8 @@
     "capacity_percentage": null,
     "latitude": 50.024075,
     "longitude": -8.009764,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4011.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_139",
@@ -1248,7 +1346,8 @@
     "capacity_percentage": null,
     "latitude": 50.046338,
     "longitude": -8.022381,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2050.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_140",
@@ -1257,7 +1356,8 @@
     "capacity_percentage": null,
     "latitude": 50.047294,
     "longitude": -8.014689,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "14400.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_141",
@@ -1266,7 +1366,8 @@
     "capacity_percentage": null,
     "latitude": 50.061992,
     "longitude": -8.022624,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "199000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_142",
@@ -1275,7 +1376,8 @@
     "capacity_percentage": null,
     "latitude": 50.05329,
     "longitude": -8.023685,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3238.21",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_143",
@@ -1284,7 +1386,8 @@
     "capacity_percentage": null,
     "latitude": 50.04402,
     "longitude": -8.019474,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2028.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_144",
@@ -1293,7 +1396,8 @@
     "capacity_percentage": null,
     "latitude": 50.026735,
     "longitude": -8.007652,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10981.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_145",
@@ -1302,7 +1406,8 @@
     "capacity_percentage": null,
     "latitude": 50.024634,
     "longitude": -8.010645,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "18732.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_146",
@@ -1311,7 +1416,8 @@
     "capacity_percentage": null,
     "latitude": 50.043777,
     "longitude": -8.018203,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "27800.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_147",
@@ -1320,7 +1426,8 @@
     "capacity_percentage": null,
     "latitude": 50.042858,
     "longitude": -8.020261,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1932.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_148",
@@ -1329,7 +1436,8 @@
     "capacity_percentage": null,
     "latitude": 50.045103,
     "longitude": -8.018077,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6401.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_149",
@@ -1338,7 +1446,8 @@
     "capacity_percentage": null,
     "latitude": 50.048187,
     "longitude": -8.019659,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "408.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_150",
@@ -1347,7 +1456,8 @@
     "capacity_percentage": null,
     "latitude": 50.022209,
     "longitude": -8.005936,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5580.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_151",
@@ -1356,7 +1466,8 @@
     "capacity_percentage": null,
     "latitude": 50.05219,
     "longitude": -8.018544,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4780.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_152",
@@ -1365,7 +1476,8 @@
     "capacity_percentage": null,
     "latitude": 50.04953,
     "longitude": -8.018068,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3045.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_153",
@@ -1374,7 +1486,8 @@
     "capacity_percentage": null,
     "latitude": 50.050531,
     "longitude": -8.01565,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_154",
@@ -1383,7 +1496,8 @@
     "capacity_percentage": null,
     "latitude": 50.061063,
     "longitude": -8.020494,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1721.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_155",
@@ -1392,7 +1506,8 @@
     "capacity_percentage": null,
     "latitude": 50.026916,
     "longitude": -8.026057,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "24492.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_156",
@@ -1401,7 +1516,8 @@
     "capacity_percentage": null,
     "latitude": 50.028079,
     "longitude": -8.028888,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5066.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_157",
@@ -1410,7 +1526,8 @@
     "capacity_percentage": null,
     "latitude": 50.043768,
     "longitude": -8.034612,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "7400.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_158",
@@ -1419,7 +1536,8 @@
     "capacity_percentage": null,
     "latitude": 50.041289,
     "longitude": -8.029742,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1777.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_159",
@@ -1428,7 +1546,8 @@
     "capacity_percentage": null,
     "latitude": 50.039485,
     "longitude": -8.030335,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "7488.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_160",
@@ -1437,7 +1556,8 @@
     "capacity_percentage": null,
     "latitude": 50.040964,
     "longitude": -8.029193,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "54273.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_161",
@@ -1446,7 +1566,8 @@
     "capacity_percentage": null,
     "latitude": 50.031424,
     "longitude": -8.030865,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "32882.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_162",
@@ -1455,7 +1576,8 @@
     "capacity_percentage": null,
     "latitude": 50.039713,
     "longitude": -8.030252,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "40959.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_163",
@@ -1464,7 +1586,8 @@
     "capacity_percentage": null,
     "latitude": 50.035031,
     "longitude": -8.029903,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "48828.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_164",
@@ -1473,7 +1596,8 @@
     "capacity_percentage": null,
     "latitude": 50.041785,
     "longitude": -8.031341,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "9432.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_165",
@@ -1482,7 +1606,8 @@
     "capacity_percentage": null,
     "latitude": 50.041081,
     "longitude": -8.032995,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1687.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_166",
@@ -1491,7 +1616,8 @@
     "capacity_percentage": null,
     "latitude": 50.040062,
     "longitude": -8.032923,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2902.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_167",
@@ -1500,7 +1626,8 @@
     "capacity_percentage": null,
     "latitude": 50.041469,
     "longitude": -8.032698,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1870.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_168",
@@ -1509,7 +1636,8 @@
     "capacity_percentage": null,
     "latitude": 50.040071,
     "longitude": -8.031988,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "747.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_169",
@@ -1518,7 +1646,8 @@
     "capacity_percentage": null,
     "latitude": 50.039224,
     "longitude": -8.029625,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "106751.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_170",
@@ -1527,7 +1656,8 @@
     "capacity_percentage": null,
     "latitude": 50.039512,
     "longitude": -8.031737,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "26108.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_171",
@@ -1536,7 +1666,8 @@
     "capacity_percentage": null,
     "latitude": 50.086076,
     "longitude": -8.033965,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3873.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_172",
@@ -1545,7 +1676,8 @@
     "capacity_percentage": null,
     "latitude": 50.076315,
     "longitude": -8.033402,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "27052.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_173",
@@ -1554,7 +1686,8 @@
     "capacity_percentage": null,
     "latitude": 50.072958,
     "longitude": -8.034578,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "16286.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_174",
@@ -1563,7 +1696,8 @@
     "capacity_percentage": null,
     "latitude": 50.062875,
     "longitude": -8.034194,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "17475.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_175",
@@ -1572,7 +1706,8 @@
     "capacity_percentage": null,
     "latitude": 50.072532,
     "longitude": -8.033098,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6346.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_176",
@@ -1581,7 +1716,8 @@
     "capacity_percentage": null,
     "latitude": 50.074318,
     "longitude": -8.031692,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "397630.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_177",
@@ -1590,7 +1726,8 @@
     "capacity_percentage": null,
     "latitude": 50.077266,
     "longitude": -8.033831,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2461.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_178",
@@ -1599,7 +1736,8 @@
     "capacity_percentage": null,
     "latitude": 50.077789,
     "longitude": -8.033408,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1291596.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_179",
@@ -1608,7 +1746,8 @@
     "capacity_percentage": null,
     "latitude": 50.081342,
     "longitude": -8.035493,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "163272.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_180",
@@ -1617,7 +1756,8 @@
     "capacity_percentage": null,
     "latitude": 50.074562,
     "longitude": -8.03937,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "774.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_181",
@@ -1626,7 +1766,8 @@
     "capacity_percentage": null,
     "latitude": 50.072995,
     "longitude": -8.033989,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "804704.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_182",
@@ -1635,7 +1776,8 @@
     "capacity_percentage": null,
     "latitude": 50.081865,
     "longitude": -8.036167,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "19859.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_183",
@@ -1644,7 +1786,8 @@
     "capacity_percentage": null,
     "latitude": 50.086698,
     "longitude": -8.034693,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "128124.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_184",
@@ -1653,7 +1796,8 @@
     "capacity_percentage": null,
     "latitude": 50.075896,
     "longitude": -8.033911,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "59270.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_185",
@@ -1662,7 +1806,8 @@
     "capacity_percentage": null,
     "latitude": 50.074381,
     "longitude": -8.037947,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "15464.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_186",
@@ -1671,7 +1816,8 @@
     "capacity_percentage": null,
     "latitude": 50.08136,
     "longitude": -8.037335,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "556677.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_187",
@@ -1680,7 +1826,8 @@
     "capacity_percentage": null,
     "latitude": 50.080585,
     "longitude": -8.032752,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "356.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_188",
@@ -1689,7 +1836,8 @@
     "capacity_percentage": null,
     "latitude": 50.069628,
     "longitude": -8.035642,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "8668.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_189",
@@ -1698,7 +1846,8 @@
     "capacity_percentage": null,
     "latitude": 50.087906,
     "longitude": -8.034864,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "12388.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_190",
@@ -1707,7 +1856,8 @@
     "capacity_percentage": null,
     "latitude": 50.072636,
     "longitude": -8.032812,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "49358.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_191",
@@ -1716,7 +1866,8 @@
     "capacity_percentage": null,
     "latitude": 50.026167,
     "longitude": -8.007841,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2106.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_192",
@@ -1725,7 +1876,8 @@
     "capacity_percentage": null,
     "latitude": 50.068745,
     "longitude": -8.02724,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "532.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_193",
@@ -1734,7 +1886,8 @@
     "capacity_percentage": null,
     "latitude": 50.026113,
     "longitude": -8.007823,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "80.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_194",
@@ -1743,7 +1896,8 @@
     "capacity_percentage": null,
     "latitude": 50.041676,
     "longitude": -8.032429,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5017.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_195",
@@ -1752,7 +1906,8 @@
     "capacity_percentage": null,
     "latitude": 50.06512,
     "longitude": -8.027256,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "63722.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_196",
@@ -1761,7 +1916,8 @@
     "capacity_percentage": null,
     "latitude": 50.017277,
     "longitude": -8.032914,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3170.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_197",
@@ -1770,7 +1926,8 @@
     "capacity_percentage": null,
     "latitude": 50.047528,
     "longitude": -8.016271,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1655.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_198",
@@ -1779,7 +1936,8 @@
     "capacity_percentage": null,
     "latitude": 50.045031,
     "longitude": -8.017996,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1859.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_199",
@@ -1788,7 +1946,8 @@
     "capacity_percentage": null,
     "latitude": 50.044625,
     "longitude": -8.013628,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1670.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_200",
@@ -1797,7 +1956,8 @@
     "capacity_percentage": null,
     "latitude": 50.044544,
     "longitude": -8.013844,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1750.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_201",
@@ -1806,7 +1966,8 @@
     "capacity_percentage": null,
     "latitude": 50.044706,
     "longitude": -8.017421,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2172.989",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_202",
@@ -1815,7 +1976,8 @@
     "capacity_percentage": null,
     "latitude": 50.083975,
     "longitude": -8.035978,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "165226.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_203",
@@ -1824,7 +1986,8 @@
     "capacity_percentage": null,
     "latitude": 50.034824,
     "longitude": -8.031197,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "26292.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_204",
@@ -1833,7 +1996,8 @@
     "capacity_percentage": null,
     "latitude": 50.032479,
     "longitude": -8.012856,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2340.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_205",
@@ -1842,7 +2006,8 @@
     "capacity_percentage": null,
     "latitude": 50.041469,
     "longitude": -8.016603,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6180.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_206",
@@ -1851,7 +2016,8 @@
     "capacity_percentage": null,
     "latitude": 50.0266,
     "longitude": -8.023595,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2300.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_207",
@@ -1860,7 +2026,8 @@
     "capacity_percentage": null,
     "latitude": 50.035076,
     "longitude": -8.00652,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "90000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_208",
@@ -1869,7 +2036,8 @@
     "capacity_percentage": null,
     "latitude": 50.033128,
     "longitude": -8.029858,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5558.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_209",
@@ -1878,7 +2046,8 @@
     "capacity_percentage": null,
     "latitude": 50.033264,
     "longitude": -8.013215,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "17545.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_210",
@@ -1887,7 +2056,8 @@
     "capacity_percentage": null,
     "latitude": 50.028115,
     "longitude": -8.028439,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10717.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_211",
@@ -1896,7 +2066,8 @@
     "capacity_percentage": null,
     "latitude": 50.024084,
     "longitude": -8.009953,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "16809.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_212",
@@ -1905,7 +2076,8 @@
     "capacity_percentage": null,
     "latitude": 50.024319,
     "longitude": -8.010357,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "30363.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_213",
@@ -1914,7 +2086,8 @@
     "capacity_percentage": null,
     "latitude": 50.024959,
     "longitude": -8.010932,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "31492.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_214",
@@ -1923,7 +2096,8 @@
     "capacity_percentage": null,
     "latitude": 50.033399,
     "longitude": -8.01388,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1884.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_215",
@@ -1932,7 +2106,8 @@
     "capacity_percentage": null,
     "latitude": 50.044923,
     "longitude": -8.019605,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2273.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_216",
@@ -1941,7 +2116,8 @@
     "capacity_percentage": null,
     "latitude": 50.09063,
     "longitude": -8.032743,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "316.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_217",
@@ -1950,7 +2126,8 @@
     "capacity_percentage": null,
     "latitude": 50.043056,
     "longitude": -8.013682,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3200.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_218",
@@ -1959,7 +2136,8 @@
     "capacity_percentage": null,
     "latitude": 50.041821,
     "longitude": -8.011445,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6300.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_219",
@@ -1968,7 +2146,8 @@
     "capacity_percentage": null,
     "latitude": 50.046203,
     "longitude": -8.023325,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6516.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_220",
@@ -1977,7 +2156,8 @@
     "capacity_percentage": null,
     "latitude": 50.017132,
     "longitude": -8.034199,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "36910.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_221",
@@ -1986,7 +2166,8 @@
     "capacity_percentage": null,
     "latitude": 50.052046,
     "longitude": -8.018652,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2503.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_222",
@@ -1995,7 +2176,8 @@
     "capacity_percentage": null,
     "latitude": 50.041442,
     "longitude": -8.020494,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2949.7",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_223",
@@ -2004,7 +2186,8 @@
     "capacity_percentage": null,
     "latitude": 50.036789,
     "longitude": -8.011517,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "124000.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_224",
@@ -2013,7 +2196,8 @@
     "capacity_percentage": null,
     "latitude": 50.055256,
     "longitude": -8.013269,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1682.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_225",
@@ -2022,7 +2206,8 @@
     "capacity_percentage": null,
     "latitude": 50.046591,
     "longitude": -8.019524,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "7873.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_226",
@@ -2031,7 +2216,8 @@
     "capacity_percentage": null,
     "latitude": 50.052019,
     "longitude": -8.019479,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "10069.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_227",
@@ -2040,7 +2226,8 @@
     "capacity_percentage": null,
     "latitude": 50.053976,
     "longitude": -8.02674,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2945.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_228",
@@ -2049,7 +2236,8 @@
     "capacity_percentage": null,
     "latitude": 50.056004,
     "longitude": -8.020737,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "15320.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_229",
@@ -2058,7 +2246,8 @@
     "capacity_percentage": null,
     "latitude": 50.035274,
     "longitude": -8.017951,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1921.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_230",
@@ -2067,7 +2256,8 @@
     "capacity_percentage": null,
     "latitude": 50.015356,
     "longitude": -8.035889,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3364.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_231",
@@ -2076,7 +2266,8 @@
     "capacity_percentage": null,
     "latitude": 50.052205,
     "longitude": -8.043486,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "13638.27",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_232",
@@ -2085,7 +2276,8 @@
     "capacity_percentage": null,
     "latitude": 50.02467,
     "longitude": -8.010564,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6940.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_233",
@@ -2094,7 +2286,8 @@
     "capacity_percentage": null,
     "latitude": 50.024571,
     "longitude": -8.010564,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "7469.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_234",
@@ -2103,7 +2296,8 @@
     "capacity_percentage": null,
     "latitude": 50.038184,
     "longitude": -8.016614,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6655.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_235",
@@ -2112,7 +2306,8 @@
     "capacity_percentage": null,
     "latitude": 50.012299,
     "longitude": -8.040499,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5420.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_236",
@@ -2121,7 +2316,8 @@
     "capacity_percentage": null,
     "latitude": 50.050008,
     "longitude": -8.022516,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "11800.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_237",
@@ -2130,7 +2326,8 @@
     "capacity_percentage": null,
     "latitude": 50.044228,
     "longitude": -8.017915,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2239.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_238",
@@ -2139,7 +2336,8 @@
     "capacity_percentage": null,
     "latitude": 50.019062,
     "longitude": -8.024008,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2600.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_239",
@@ -2148,7 +2346,8 @@
     "capacity_percentage": null,
     "latitude": 50.0499,
     "longitude": -8.018239,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3936.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_240",
@@ -2157,7 +2356,8 @@
     "capacity_percentage": null,
     "latitude": 50.037402,
     "longitude": -8.014994,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2227.54",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_241",
@@ -2166,7 +2366,8 @@
     "capacity_percentage": null,
     "latitude": 50.048872,
     "longitude": -8.015552,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2748.75",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_242",
@@ -2175,7 +2376,8 @@
     "capacity_percentage": null,
     "latitude": 50.06506,
     "longitude": -8.027934,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "12020.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_243",
@@ -2184,7 +2386,8 @@
     "capacity_percentage": null,
     "latitude": 50.028899,
     "longitude": -8.028034,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "11921.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_244",
@@ -2193,7 +2396,8 @@
     "capacity_percentage": null,
     "latitude": 50.040098,
     "longitude": -8.031836,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1970.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_245",
@@ -2202,7 +2406,8 @@
     "capacity_percentage": null,
     "latitude": 50.055815,
     "longitude": -8.026201,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "40714.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_246",
@@ -2211,7 +2416,8 @@
     "capacity_percentage": null,
     "latitude": 50.050297,
     "longitude": -8.018634,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "7800.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_247",
@@ -2220,7 +2426,8 @@
     "capacity_percentage": null,
     "latitude": 50.041361,
     "longitude": -8.020063,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6440.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_248",
@@ -2229,7 +2436,8 @@
     "capacity_percentage": null,
     "latitude": 50.044932,
     "longitude": -8.019497,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "6700.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_249",
@@ -2238,7 +2446,8 @@
     "capacity_percentage": null,
     "latitude": 50.057781,
     "longitude": -8.019416,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2360.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_250",
@@ -2247,7 +2456,8 @@
     "capacity_percentage": null,
     "latitude": 50.045013,
     "longitude": -8.017726,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2955.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_251",
@@ -2256,7 +2466,8 @@
     "capacity_percentage": null,
     "latitude": 50.029625,
     "longitude": -8.030589,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "11235.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_252",
@@ -2265,7 +2476,8 @@
     "capacity_percentage": null,
     "latitude": 50.044852,
     "longitude": -8.019707,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2688.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_253",
@@ -2274,7 +2486,8 @@
     "capacity_percentage": null,
     "latitude": 50.037808,
     "longitude": -8.028825,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "59852.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_254",
@@ -2283,7 +2496,8 @@
     "capacity_percentage": null,
     "latitude": 50.026068,
     "longitude": -8.007832,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "680.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_255",
@@ -2292,7 +2506,8 @@
     "capacity_percentage": null,
     "latitude": 50.026023,
     "longitude": -8.007823,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "680.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_256",
@@ -2301,7 +2516,8 @@
     "capacity_percentage": null,
     "latitude": 50.024165,
     "longitude": -8.009917,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2757.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_257",
@@ -2310,7 +2526,8 @@
     "capacity_percentage": null,
     "latitude": 50.024165,
     "longitude": -8.009962,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1857.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_258",
@@ -2319,7 +2536,8 @@
     "capacity_percentage": null,
     "latitude": 50.058096,
     "longitude": -8.019775,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2046.5",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_259",
@@ -2328,7 +2546,8 @@
     "capacity_percentage": null,
     "latitude": 50.046681,
     "longitude": -8.020809,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3273.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_260",
@@ -2337,7 +2556,8 @@
     "capacity_percentage": null,
     "latitude": 50.046564,
     "longitude": -8.022364,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5100.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_261",
@@ -2346,7 +2566,8 @@
     "capacity_percentage": null,
     "latitude": 50.021217,
     "longitude": -8.007365,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5623.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_262",
@@ -2355,7 +2576,8 @@
     "capacity_percentage": null,
     "latitude": 50.026411,
     "longitude": -8.025122,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1739.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_263",
@@ -2364,7 +2586,8 @@
     "capacity_percentage": null,
     "latitude": 50.020973,
     "longitude": -8.025248,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "5359.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_264",
@@ -2373,7 +2596,8 @@
     "capacity_percentage": null,
     "latitude": 50.025996,
     "longitude": -8.007904,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "639.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_265",
@@ -2382,7 +2606,8 @@
     "capacity_percentage": null,
     "latitude": 50.067842,
     "longitude": -8.027933,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3364.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_266",
@@ -2391,7 +2616,8 @@
     "capacity_percentage": null,
     "latitude": 50.055148,
     "longitude": -8.024017,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2282.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_267",
@@ -2400,7 +2626,8 @@
     "capacity_percentage": null,
     "latitude": 50.046879,
     "longitude": -8.020261,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "1601.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_268",
@@ -2409,7 +2636,8 @@
     "capacity_percentage": null,
     "latitude": 50.068845,
     "longitude": -8.023109,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4239.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_269",
@@ -2418,7 +2646,8 @@
     "capacity_percentage": null,
     "latitude": 50.04806,
     "longitude": -8.020629,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2912.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_270",
@@ -2427,7 +2656,8 @@
     "capacity_percentage": null,
     "latitude": 50.030739,
     "longitude": -8.012083,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "2004.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_271",
@@ -2436,7 +2666,8 @@
     "capacity_percentage": null,
     "latitude": 50.026519,
     "longitude": -8.007715,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "16500.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_272",
@@ -2445,7 +2676,8 @@
     "capacity_percentage": null,
     "latitude": 50.020676,
     "longitude": -8.029283,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "21541.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_273",
@@ -2454,7 +2686,8 @@
     "capacity_percentage": null,
     "latitude": 50.045319,
     "longitude": -8.018625,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "8300.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_274",
@@ -2463,7 +2696,8 @@
     "capacity_percentage": null,
     "latitude": 50.045031,
     "longitude": -8.019263,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "4700.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_275",
@@ -2472,7 +2706,8 @@
     "capacity_percentage": null,
     "latitude": 50.024752,
     "longitude": -8.010789,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "26910.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_276",
@@ -2481,7 +2716,8 @@
     "capacity_percentage": null,
     "latitude": 50.046482,
     "longitude": -8.023379,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3252.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   },
   {
     "reservoir_id": "RES_277",
@@ -2490,6 +2726,7 @@
     "capacity_percentage": null,
     "latitude": 50.028629,
     "longitude": -8.029472,
-    "last_updated": "2026-08-20T04:30:36Z"
+    "total_capacity": "3277.0",
+    "last_updated": "2026-08-21T14:29:46Z"
   }
 ]
